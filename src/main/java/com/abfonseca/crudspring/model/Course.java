@@ -9,6 +9,7 @@ import lombok.Data;
 
 @Data
 @Entity
+
 public class Course {
 
   @Id
